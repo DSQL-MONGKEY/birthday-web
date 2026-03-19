@@ -183,8 +183,8 @@ export default function Home() {
           {/* Gallery Section */}
           <section className="py-24 px-6 overflow-hidden">
             <ScrollReveal className="text-center mb-16">
-              <h2 data-aos="fade-left" className="text-3xl md:text-5xl font-serif mb-4">Memori Indah</h2>
-              <p className="text-white/60 font-sans">Beberapa momen yang tidak akan terlupakan</p>
+              <h2 data-aos="fade-left" className="text-3xl md:text-5xl font-serif mb-4">Dark Memory</h2>
+              <p className="text-white/60 font-sans">Beberapa momen yang tidak akan terlupakan dan menjadi mimpu buruq</p>
             </ScrollReveal>
 
             <ScrollReveal delay={0.3}>
